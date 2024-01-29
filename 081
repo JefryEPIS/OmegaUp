@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-//Compiler version g++ 6.3.0
 int n;
 int triangulo[102][102];
 int memo[102][102];
